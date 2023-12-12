@@ -1,4 +1,24 @@
-# Data Overview
+# Influenza Season - Staffing
+
+## Project Overview
+
+• Motivation: The United States has an influenza season where more people than usual
+suffer from the flu. Some people, particularly those in vulnerable populations, develop
+serious complications and end up in the hospital. Hospitals and clinics need additional
+staff to adequately treat these extra patients. The medical staffing agency provides this
+temporary staff.
+• Objective: Determine when to send staff, and how many, to each state.
+• Scope: The agency covers all hospitals in each of the 50 states of the United States, and
+the project will plan for the upcoming influenza season.
+
+**Possible ML or predictive analytics ideas**:
+
+1. **Classification**:  Create various buckets for level of staffing required— low, medium, high. Predict which class each State/Province/County will fall into at a specific time
+2. **Regression**: Predict how many staff members are to be assigned to a State/Province/County at a specific time. 
+3. **Clustering**: Create entirely new groups from dataset based on distribution of data. Examples could include unvaccinated and dead from influenza, vaccinated and dead from influenza, well-staffed but major fatalities…etc
+
+
+## Data Overview
 
 ## 1. Population data by geography US Census data
 
@@ -109,7 +129,7 @@ across the years which is important to define the staffing plan for each state f
 the objective. The data sets are also important to test hypotheses 3,4 and 6 with
 visits for influenza-like-illness and flu infection rates as target variables.
  
-## 3.Children Flu Shots data set.
+## 3.Children Flu Shots data set
 
 ### 3.1 Summary of the data
 #### Data source:
