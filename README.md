@@ -150,4 +150,4 @@ regarding the number of vaccinated children as the independent variable. Not
 particularly helpful in terms of the objective, hence, to define the staff plan –
 vaccination information across a broader age range, more vulnerable groups, medical
 staff, etc. would have been more helpful
-![image](https://github.com/SoStrauss/Influenza-Season-Staffing/assets/148326046/7ba9c03c-6eea-44cf-be9c-6b05e93baab8)
+
